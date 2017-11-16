@@ -50,7 +50,7 @@ import cv2
 输入命令： 
 
 ```
-python main.py --reference reference,jpg –image cards/xx.jpg 
+python main.py  –i cards/xx.jpg -r reference.jpg
 ```
 
 其中”xx.jpg”指欲识别卡片图片名称 
